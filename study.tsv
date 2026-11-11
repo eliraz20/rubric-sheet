@@ -1,0 +1,5 @@
+rule	v1	Evidence	2	Strong	100	Claims supported
+rule	v1	Clarity	1	Developing	50	Argument needs signposts
+submission	S1	Alex	v1
+score	S1	Evidence	Strong	Keep the citation
+score	S1	Clarity	Developing	Add a topic sentence
